@@ -17,6 +17,19 @@ flowchart LR
     c --> e[리마인더 제안]
 ```
 
+### 이용 흐름
+
+```mermaid
+sequenceDiagram
+    participant U as 사용자
+    participant L as Google/Apple 로그인
+    participant S as Spectra AI
+    U->>L: 로그인
+    U->>S: 메모 작성
+    S->>S: 메모 분석
+    S->>U: 할 일 추출 + 리마인더 제안
+```
+
 ## 이런 분께 추천합니다
 
 - 생각나는 대로 메모부터 하고 정리는 나중에 하고 싶은 분
