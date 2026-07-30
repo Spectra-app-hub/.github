@@ -1,6 +1,20 @@
-# Spectra
+# Spectra — AI 메모 정리 & 할 일 관리
 
-AI가 메모를 정리하고 할 일을 추출해 리마인더로 제안해주는 앱입니다. Google/Apple 로그인으로 이용합니다.
+🔒 [개인정보처리방침](https://spectra.sanglimsoft.com/privacy/) · 💬 [고객지원](https://spectra.sanglimsoft.com/support/)
 
-🔒 [개인정보처리방침](https://spectra.sanglimsoft.com/privacy/)
-💬 [고객지원](https://spectra.sanglimsoft.com/support/)
+**Spectra**는 자유롭게 적은 메모를 AI가 정리해 할 일을 추출하고, 리마인더까지 제안해주는 앱입니다. Google/Apple 계정으로 간편하게 로그인해 이용합니다.
+
+## 이런 분께 추천합니다
+
+- 생각나는 대로 메모부터 하고 정리는 나중에 하고 싶은 분
+- 메모 속에 흩어진 할 일을 놓치고 싶지 않은 분
+
+## 주요 기능
+
+- AI 기반 메모 정리 및 할 일 자동 추출
+- 리마인더 제안
+- Google/Apple OAuth 로그인
+
+---
+
+**Spectra** · [개인정보처리방침](https://spectra.sanglimsoft.com/privacy/) · [고객지원](https://spectra.sanglimsoft.com/support/)
